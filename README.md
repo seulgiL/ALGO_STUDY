@@ -26,7 +26,7 @@
 
 | 일자 | 체크                 |
 | ---- | -------------------- |
-| 7/1  | :white_large_square: |
+| 7/1  | :white_check_mark:   |
 | 7/2  | :white_large_square: |
 | 7/3  | :white_large_square: |
 | 7/4  | :white_large_square: |
